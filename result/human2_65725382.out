@@ -1,0 +1,412 @@
+Python used: /mnt/home/wangx306/conda3/envs/petlsenv/bin/python
+Numpy version: 2.3.4
+Loaded data: GSE84133human2
+X_raw shape: (1724, 20125) y shape: (1724,)
+
+Loading PSL features for scale=5, k=5, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k5_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=5): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=10, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k10_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=10): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=15, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k15_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=15): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=20, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k20_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=20): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=30, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k30_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=30): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=40, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k40_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=40): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=50, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k50_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=50): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=60, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k60_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=60): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=70, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k70_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=70): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=5, k=80, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale5_k80_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=5, k=80): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=5, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k5_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=5): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=10, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k10_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=10): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=15, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k15_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=15): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=20, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k20_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=20): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=30, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k30_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=30): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=40, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k40_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=40): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=50, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k50_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=50): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=60, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k60_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=60): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=70, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k70_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=70): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=23, k=80, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale23_k80_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=23, k=80): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=5, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k5_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=5): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=10, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k10_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=10): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=15, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k15_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=15): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=20, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k20_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=20): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=30, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k30_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=30): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=40, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k40_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=40): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=50, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k50_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=50): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=60, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k60_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=60): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=70, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k70_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=70): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=46, k=80, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale46_k80_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=46, k=80): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=5, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k5_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=5): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=10, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k10_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=10): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=15, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k15_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=15): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=20, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k20_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=20): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=30, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k30_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=30): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=40, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k40_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=40): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=50, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k50_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=50): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=60, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k60_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=60): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=70, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k70_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=70): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=72, k=80, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale72_k80_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=72, k=80): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=5, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k5_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=5): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=10, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k10_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=10): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=15, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k15_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=15): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=20, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k20_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=20): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=30, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k30_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=30): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=40, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k40_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=40): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=50, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k50_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=50): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=60, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k60_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=60): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=70, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k70_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=70): (1724, 100), dims_use=(0, 1)
+
+Loading PSL features for scale=100, k=80, alpha=0.01 ...
+[load merged] ./psl_eigs/GSE84133human2/GSE84133human2_distchordal_scale100_k80_pca100_umap50_meteuc_md0p4_normmax_f10_patsegments_linear_d0-1_rips2_sigauto_alpha0p01_ALLcells_psl.npy
+Block shape (scale=100, k=80): (1724, 100), dims_use=(0, 1)
+
+Final PSL feature matrix shape: (1724, 5000)
+Unique classes: [ 0  1  2  3  4  5  6  7  8  9 10 11 12 13]
+
+=== Fold 1/5 ===
+Fold 1 balanced acc:     0.9385
+Fold 1 accuracy:         0.9592
+Fold 1 macro F1:         0.9407
+Fold 1 weighted F1:      0.9582
+Fold 1 macro recall:     0.9385
+Fold 1 MCC:              0.9468
+Fold 1 Macro-AUC (OVR):  0.9943
+Fold classification report:
+              precision    recall  f1-score   support
+
+           1       0.76      1.00      0.87        13
+           2       0.97      0.97      0.97       132
+           3       0.95      0.92      0.93        76
+           4       1.00      1.00      1.00        28
+           5       0.97      1.00      0.98        56
+           6       1.00      1.00      1.00         6
+           8       1.00      1.00      1.00        16
+           9       1.00      1.00      1.00         7
+          11       1.00      0.56      0.71         9
+
+    accuracy                           0.96       343
+   macro avg       0.96      0.94      0.94       343
+weighted avg       0.96      0.96      0.96       343
+
+
+=== Fold 2/5 ===
+Fold 2 balanced acc:     0.9444
+Fold 2 accuracy:         0.9701
+Fold 2 macro F1:         0.9620
+Fold 2 weighted F1:      0.9698
+Fold 2 macro recall:     0.9444
+Fold 2 MCC:              0.9605
+Fold 2 Macro-AUC (OVR):  0.9885
+Fold classification report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.94      0.97        16
+           2       0.97      0.98      0.97       131
+           3       0.96      0.96      0.96        70
+           4       1.00      0.93      0.97        30
+           5       0.95      1.00      0.98        59
+           6       1.00      1.00      1.00         8
+           8       1.00      1.00      1.00        16
+          11       1.00      0.75      0.86         4
+
+    accuracy                           0.97       334
+   macro avg       0.98      0.94      0.96       334
+weighted avg       0.97      0.97      0.97       334
+
+
+=== Fold 3/5 ===
+Fold 3 balanced acc:     0.9584
+Fold 3 accuracy:         0.9705
+Fold 3 macro F1:         0.9688
+Fold 3 weighted F1:      0.9703
+Fold 3 macro recall:     0.9584
+Fold 3 MCC:              0.9601
+Fold 3 Macro-AUC (OVR):  0.9986
+Fold classification report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.88      0.94        25
+           2       0.98      0.98      0.98       145
+           3       0.95      0.97      0.96        61
+           4       1.00      0.88      0.94        17
+           5       0.94      1.00      0.97        63
+           8       1.00      1.00      1.00        24
+          11       1.00      1.00      1.00         4
+
+    accuracy                           0.97       339
+   macro avg       0.98      0.96      0.97       339
+weighted avg       0.97      0.97      0.97       339
+
+
+=== Fold 4/5 ===
+Fold 4 balanced acc:     0.9773
+Fold 4 accuracy:         0.9676
+Fold 4 macro F1:         0.9792
+Fold 4 weighted F1:      0.9675
+Fold 4 macro recall:     0.9773
+Fold 4 MCC:              0.9567
+Fold 4 Macro-AUC (OVR):  0.9988
+Fold classification report:
+              precision    recall  f1-score   support
+
+           1       1.00      1.00      1.00        10
+           2       0.96      0.96      0.96       132
+           3       0.97      0.95      0.96        77
+           4       0.96      0.96      0.96        24
+           5       0.96      1.00      0.98        67
+           6       1.00      1.00      1.00         5
+           8       1.00      0.95      0.97        20
+           9       1.00      1.00      1.00         4
+
+    accuracy                           0.97       339
+   macro avg       0.98      0.98      0.98       339
+weighted avg       0.97      0.97      0.97       339
+
+
+=== Fold 5/5 ===
+Fold 5 balanced acc:     0.9738
+Fold 5 accuracy:         0.9789
+Fold 5 macro F1:         0.9816
+Fold 5 weighted F1:      0.9790
+Fold 5 macro recall:     0.9738
+Fold 5 MCC:              0.9710
+Fold 5 Macro-AUC (OVR):  0.9898
+Fold classification report:
+              precision    recall  f1-score   support
+
+           1       1.00      0.94      0.97        17
+           2       0.96      0.99      0.97       136
+           3       1.00      0.97      0.98        87
+           4       1.00      0.96      0.98        26
+           5       0.98      0.98      0.98        56
+           8       1.00      1.00      1.00        10
+
+    accuracy                           0.98       332
+   macro avg       0.99      0.97      0.98       332
+weighted avg       0.98      0.98      0.98       332
+
+
+===== 5-fold Cross-Validation Summary =====
+Balanced Accuracy:  0.9585 ± 0.0154
+Accuracy:           0.9692 ± 0.0063
+Macro F1:           0.9665 ± 0.0147
+Weighted F1:        0.9689 ± 0.0067
+Macro recall:       0.9585 ± 0.0154
+MCC:                0.9590 ± 0.0078
+Macro-AUC (OVR):    0.9940 ± 0.0043
+
+Average confusion matrix over folds (rows=true, cols=pred):
+[[  0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.   15.2   0.4   0.2   0.    0.4   0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.  132.    2.    0.    1.2   0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.2   2.8  70.6   0.2   0.4   0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.6   0.   23.8   0.6   0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.2   0.    0.   60.    0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    3.8   0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.2   0.    0.    0.    0.    0.   17.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    0.    0.    0.    2.2   0.    0.
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.6   0.2   0.2   0.    0.    0.    0.    0.    0.    0.    2.4
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    0.    0. ]
+ [  0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    0.    0. ]]
+
+===== Parameter Summary for This Run =====
+
+--- PSL / Geometry Parameters ---
+DATA_NAME            = GSE84133human2
+PCA_N_COMPONENTS     = 100
+UMAP_N_COMPONENTS    = 50
+UMAP_METRIC          = euclidean
+UMAP_MIN_DIST        = 0.4
+NORMALIZE_METHOD     = max
+N_FILTRATIONS        = 10
+FILTRATION_PATTERN   = segments_linear
+PSL_DIMS             = (0, 1)
+RIPS_MAX_DIM         = 2
+PSL_SIGMA            = None
+SCALES (list)        = [5, 23, 46, 72, 100]
+K_LIST               = [5, 10, 15, 20, 30, 40, 50, 60, 70, 80]
+DIMS_USE             = (0, 1)
+STATS_PER_DIM        = {0: [0, 1, 2, 3, 4], 1: [0, 1, 2, 3, 4]}
+DIST_TAG             = chordal
+ALPHA                = 0.01
+
+--- Gradient Boosting (GBDT) Parameters ---
+ccp_alpha            = 0.0
+criterion            = friedman_mse
+init                 = None
+learning_rate        = 0.002
+loss                 = log_loss
+max_depth            = 7
+max_features         = sqrt
+max_leaf_nodes       = None
+min_impurity_decrease = 0.0
+min_samples_leaf     = 1
+min_samples_split    = 5
+min_weight_fraction_leaf = 0.0
+n_estimators         = 2000
+n_iter_no_change     = None
+random_state         = 0
+subsample            = 0.8
+tol                  = 0.0001
+validation_fraction  = 0.1
+verbose              = 0
+warm_start           = False
