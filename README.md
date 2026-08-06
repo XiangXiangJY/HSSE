@@ -43,4 +43,8 @@ with gzip.open("Data/GSE67835/psl_eigs/<filename>.npy.gz", "rb") as f:
     arr = np.load(f)
 ```
 
-Precomputed results for the other datasets used in this work (GSE45719, GSE75748, GSE82187, GSE84133, GSE94820) are too large for this repository (tens of GB). They will be made available via a separate download link/DOI — see this section for updates.
+Precomputed results for the other datasets used in this work (GSE45719, GSE75748cell, GSE75748time, GSE82187, GSE84133human1-4, GSE84133mouse1-2, GSE94820) are too large for this repository (~13.5GB compressed) and are hosted on Zenodo instead:
+
+**[10.5281/zenodo.21826747](https://doi.org/10.5281/zenodo.21826747)**
+
+Each dataset is a `.tar.gz` archive with the same internal layout as `Data/GSE67835/psl_eigs/` — gzip-compressed `.npy` files loadable the same way (`gzip.open` + `np.load`).
