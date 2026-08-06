@@ -1,4 +1,5 @@
 # psl_utils.py
+# main framework
 
 import numpy as np
 import gudhi
@@ -165,7 +166,7 @@ def make_restriction(D, sigma=None, alpha=0.0):
             m_jk = abs(lj - lk)
 
             val = 0.5 * (
-                k_ik * np.exp(-alpha * m_ik) +
+                k_ik * np.exp(-alpha * m_ik) *
                 k_jk * np.exp(-alpha * m_jk)
             )
             return float(val)
